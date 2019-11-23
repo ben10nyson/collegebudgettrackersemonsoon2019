@@ -1,0 +1,134 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ben\Desktop\manageexpense-beta\manageexpense-beta\manageexpensebeta\app\src\main\AndroidManifest.xml:2:1-83:12
+	package
+		ADDED from C:\Users\ben\Desktop\manageexpense-beta\manageexpense-beta\manageexpensebeta\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from C:\Users\ben\Desktop\manageexpense-beta\manageexpense-beta\manageexpensebeta\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ben\Desktop\manageexpense-beta\manageexpense-beta\manageexpensebeta\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\ben\Desktop\manageexpense-beta\manageexpense-beta\manageexpensebeta\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ben\Desktop\manageexpense-beta\manageexpense-beta\manageexpensebeta\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ben\Desktop\manageexpense-beta\manageexpense-beta\manageexpensebeta\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\ben\Desktop\manageexpense-beta\manageexpense-beta\manageexpensebeta\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ben\Desktop\manageexpense-beta\manageexpense-beta\manageexpensebeta\app\src\main\AndroidManifest.xml
+supports-screens
+ADDED from C:\Users\ben\Desktop\manageexpense-beta\manageexpense-beta\manageexpensebeta\app\src\main\AndroidManifest.xml:5:5-12:24
+application
+ADDED from C:\Users\ben\Desktop\manageexpense-beta\manageexpense-beta\manageexpensebeta\app\src\main\AndroidManifest.xml:14:5-81:19
+MERGED from [com.android.support:design:25.2.0] C:\Users\ben\.android\build-cache\e629e20ea872fa56ef5b87c4ef1338e3a86c5095\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:transition:25.2.0] C:\Users\ben\.android\build-cache\4764a1f67e780a6a44717940d3ff6543970f08d2\output\AndroidManifest.xml:22:5-20
+MERGED from [com.github.QuadFlask:colorpicker:0.0.13] C:\Users\ben\.android\build-cache\a64a5b16493c41548d725e51929f2570470d9393\output\AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\ben\.android\build-cache\a2d1c64d6cb7aab2c8a641622941866e02f83d81\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\ben\.android\build-cache\7a5b49648cd4387c8d997c0db6517505368901ca\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\ben\.android\build-cache\dd80a4109e0cea4249b1bf91766077c772366569\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\ben\.android\build-cache\30f78ad84be280d167c11f92f4a63fa48cd2354b\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\ben\.android\build-cache\daec0cb1a5f8b2ead3ce994587da60bbeb2dc6e9\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\ben\.android\build-cache\60d48dcb1d74b6b9c5bb69aaeacfc53c3b7edc42\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\ben\.android\build-cache\0c2b8b6186e853b14811f91a1df63f83b8dc2043\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\ben\.android\build-cache\8aef017ab8f393b869a77a3edd593348828b88f0\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\ben\.android\build-cache\6b7948731aeaff181b41c0e212d68232737bd252\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\ben\Desktop\manageexpense-beta\manageexpense-beta\manageexpensebeta\app\src\main\AndroidManifest.xml:17:9-45
+	android:supportsRtl
+		ADDED from C:\Users\ben\Desktop\manageexpense-beta\manageexpense-beta\manageexpensebeta\app\src\main\AndroidManifest.xml:18:9-35
+	android:allowBackup
+		ADDED from C:\Users\ben\Desktop\manageexpense-beta\manageexpense-beta\manageexpensebeta\app\src\main\AndroidManifest.xml:15:9-35
+	android:icon
+		ADDED from C:\Users\ben\Desktop\manageexpense-beta\manageexpense-beta\manageexpensebeta\app\src\main\AndroidManifest.xml:16:9-37
+	android:theme
+		ADDED from C:\Users\ben\Desktop\manageexpense-beta\manageexpense-beta\manageexpensebeta\app\src\main\AndroidManifest.xml:19:9-40
+activity#com.example.jasper.manageexpense.main_mess
+ADDED from C:\Users\ben\Desktop\manageexpense-beta\manageexpense-beta\manageexpensebeta\app\src\main\AndroidManifest.xml:20:9-56
+	android:name
+		ADDED from C:\Users\ben\Desktop\manageexpense-beta\manageexpense-beta\manageexpensebeta\app\src\main\AndroidManifest.xml:20:19-44
+activity#com.example.jasper.manageexpense.MainActivity
+ADDED from C:\Users\ben\Desktop\manageexpense-beta\manageexpense-beta\manageexpensebeta\app\src\main\AndroidManifest.xml:21:9-30:20
+	android:label
+		ADDED from C:\Users\ben\Desktop\manageexpense-beta\manageexpense-beta\manageexpensebeta\app\src\main\AndroidManifest.xml:23:13-49
+	android:theme
+		ADDED from C:\Users\ben\Desktop\manageexpense-beta\manageexpense-beta\manageexpensebeta\app\src\main\AndroidManifest.xml:24:13-56
+	android:name
+		ADDED from C:\Users\ben\Desktop\manageexpense-beta\manageexpense-beta\manageexpensebeta\app\src\main\AndroidManifest.xml:22:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\ben\Desktop\manageexpense-beta\manageexpense-beta\manageexpensebeta\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ben\Desktop\manageexpense-beta\manageexpense-beta\manageexpensebeta\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from C:\Users\ben\Desktop\manageexpense-beta\manageexpense-beta\manageexpensebeta\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ben\Desktop\manageexpense-beta\manageexpense-beta\manageexpensebeta\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from C:\Users\ben\Desktop\manageexpense-beta\manageexpense-beta\manageexpensebeta\app\src\main\AndroidManifest.xml:28:27-74
+activity#com.example.jasper.manageexpense.Tab1
+ADDED from C:\Users\ben\Desktop\manageexpense-beta\manageexpense-beta\manageexpensebeta\app\src\main\AndroidManifest.xml:31:9-40:20
+	android:label
+		ADDED from C:\Users\ben\Desktop\manageexpense-beta\manageexpense-beta\manageexpensebeta\app\src\main\AndroidManifest.xml:33:13-49
+	android:theme
+		ADDED from C:\Users\ben\Desktop\manageexpense-beta\manageexpense-beta\manageexpensebeta\app\src\main\AndroidManifest.xml:34:13-56
+	android:name
+		ADDED from C:\Users\ben\Desktop\manageexpense-beta\manageexpense-beta\manageexpensebeta\app\src\main\AndroidManifest.xml:32:13-33
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT
+ADDED from C:\Users\ben\Desktop\manageexpense-beta\manageexpense-beta\manageexpensebeta\app\src\main\AndroidManifest.xml:35:13-39:29
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\ben\Desktop\manageexpense-beta\manageexpense-beta\manageexpensebeta\app\src\main\AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from C:\Users\ben\Desktop\manageexpense-beta\manageexpense-beta\manageexpensebeta\app\src\main\AndroidManifest.xml:38:27-73
+activity#com.example.jasper.manageexpense.Tab2
+ADDED from C:\Users\ben\Desktop\manageexpense-beta\manageexpense-beta\manageexpensebeta\app\src\main\AndroidManifest.xml:41:9-50:20
+	android:label
+		ADDED from C:\Users\ben\Desktop\manageexpense-beta\manageexpense-beta\manageexpensebeta\app\src\main\AndroidManifest.xml:43:13-49
+	android:theme
+		ADDED from C:\Users\ben\Desktop\manageexpense-beta\manageexpense-beta\manageexpensebeta\app\src\main\AndroidManifest.xml:44:13-56
+	android:name
+		ADDED from C:\Users\ben\Desktop\manageexpense-beta\manageexpense-beta\manageexpensebeta\app\src\main\AndroidManifest.xml:42:13-33
+activity#com.example.jasper.manageexpense.TabHistory_week
+ADDED from C:\Users\ben\Desktop\manageexpense-beta\manageexpense-beta\manageexpensebeta\app\src\main\AndroidManifest.xml:51:9-60:20
+	android:label
+		ADDED from C:\Users\ben\Desktop\manageexpense-beta\manageexpense-beta\manageexpensebeta\app\src\main\AndroidManifest.xml:53:13-49
+	android:theme
+		ADDED from C:\Users\ben\Desktop\manageexpense-beta\manageexpense-beta\manageexpensebeta\app\src\main\AndroidManifest.xml:54:13-56
+	android:name
+		ADDED from C:\Users\ben\Desktop\manageexpense-beta\manageexpense-beta\manageexpensebeta\app\src\main\AndroidManifest.xml:52:13-44
+activity#com.example.jasper.manageexpense.Update_AddExpense
+ADDED from C:\Users\ben\Desktop\manageexpense-beta\manageexpense-beta\manageexpensebeta\app\src\main\AndroidManifest.xml:61:9-70:20
+	android:label
+		ADDED from C:\Users\ben\Desktop\manageexpense-beta\manageexpense-beta\manageexpensebeta\app\src\main\AndroidManifest.xml:63:13-49
+	android:theme
+		ADDED from C:\Users\ben\Desktop\manageexpense-beta\manageexpense-beta\manageexpensebeta\app\src\main\AndroidManifest.xml:64:13-56
+	android:name
+		ADDED from C:\Users\ben\Desktop\manageexpense-beta\manageexpense-beta\manageexpensebeta\app\src\main\AndroidManifest.xml:62:13-46
+activity#com.example.jasper.manageexpense.Setting
+ADDED from C:\Users\ben\Desktop\manageexpense-beta\manageexpense-beta\manageexpensebeta\app\src\main\AndroidManifest.xml:71:9-80:20
+	android:label
+		ADDED from C:\Users\ben\Desktop\manageexpense-beta\manageexpense-beta\manageexpensebeta\app\src\main\AndroidManifest.xml:73:13-49
+	android:theme
+		ADDED from C:\Users\ben\Desktop\manageexpense-beta\manageexpense-beta\manageexpensebeta\app\src\main\AndroidManifest.xml:74:13-56
+	android:name
+		ADDED from C:\Users\ben\Desktop\manageexpense-beta\manageexpense-beta\manageexpensebeta\app\src\main\AndroidManifest.xml:72:13-36
+uses-sdk
+INJECTED from C:\Users\ben\Desktop\manageexpense-beta\manageexpense-beta\manageexpensebeta\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.2.0] C:\Users\ben\.android\build-cache\e629e20ea872fa56ef5b87c4ef1338e3a86c5095\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\ben\.android\build-cache\c9ff4badd4b6601525ecb939348d85ce0ad55281\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.2.0] C:\Users\ben\.android\build-cache\4764a1f67e780a6a44717940d3ff6543970f08d2\output\AndroidManifest.xml:20:5-44
+MERGED from [com.desarrollodroide:fragmenttransactionextended:1] C:\Users\ben\.android\build-cache\d07bc31c2e2b275a78f41d54d0c7366de476d15f\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.QuadFlask:colorpicker:0.0.13] C:\Users\ben\.android\build-cache\a64a5b16493c41548d725e51929f2570470d9393\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\ben\.android\build-cache\a2d1c64d6cb7aab2c8a641622941866e02f83d81\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\ben\.android\build-cache\7a5b49648cd4387c8d997c0db6517505368901ca\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\ben\.android\build-cache\dd80a4109e0cea4249b1bf91766077c772366569\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\ben\.android\build-cache\30f78ad84be280d167c11f92f4a63fa48cd2354b\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\ben\.android\build-cache\daec0cb1a5f8b2ead3ce994587da60bbeb2dc6e9\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\ben\.android\build-cache\60d48dcb1d74b6b9c5bb69aaeacfc53c3b7edc42\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\ben\.android\build-cache\0c2b8b6186e853b14811f91a1df63f83b8dc2043\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\ben\.android\build-cache\8aef017ab8f393b869a77a3edd593348828b88f0\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\ben\.android\build-cache\6b7948731aeaff181b41c0e212d68232737bd252\output\AndroidManifest.xml:21:5-23:58
+MERGED from [net.margaritov.preference.colorpicker.ColorPickerPreference:ColorPickerPreference:1.0.0] C:\Users\ben\.android\build-cache\9c1cf5e842a40d80bb15ab07817b4f167f526c3f\output\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.2.0] C:\Users\ben\.android\build-cache\e629e20ea872fa56ef5b87c4ef1338e3a86c5095\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\ben\Desktop\manageexpense-beta\manageexpense-beta\manageexpensebeta\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ben\Desktop\manageexpense-beta\manageexpense-beta\manageexpensebeta\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ben\Desktop\manageexpense-beta\manageexpense-beta\manageexpensebeta\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ben\Desktop\manageexpense-beta\manageexpense-beta\manageexpensebeta\app\src\main\AndroidManifest.xml
